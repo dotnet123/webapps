@@ -1,0 +1,2 @@
+
+.img1{max-width:50px;max-height:50px;_width:expression(this.width > 50 ? "50px" : this.width); _height:expression(this.height > 50 ? "50px" : this.height);}
